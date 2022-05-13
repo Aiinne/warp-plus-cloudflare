@@ -1,4 +1,3 @@
-FROM python:lts-buster
 
 RUN apt-get update && \
 
